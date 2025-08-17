@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+
+# Playwright storage
+storage_state.json
+
+# Outputs
+output/
+*.log
+
+# OS files
+.DS_Store
+
